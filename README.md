@@ -25,12 +25,6 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql" />
-</p>
-
 ### ⚙️ Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -52,11 +46,19 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ## 📌 Featured Projects
 
-### ⚽ XAI Football Analytics
-AI-powered football match prediction system with Explainable AI using SHAP & LIME.
+## ⚽ XAI Sports Analytics Platform
+> Explainable AI system for player performance analysis and prediction transparency using SHAP & LIME.
 
-### 👁️ Assistive Vision System
-Real-time object detection and voice assistance system designed for accessibility.
+**Tech Used:** Python • FastAPI • SHAP • LIME • Pandas
+
+---
+
+## 👁️ Assistive Vision System
+> AI-powered assistive system for visually impaired users using real-time object detection and distance estimation.
+
+**Tech Used:** Python • OpenCV • Deep Learning • NumPy
+
+---
 
 ### 📊 Customer Segmentation
 Machine learning project for customer clustering and business insights.
