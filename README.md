@@ -14,7 +14,7 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 - 🌱 Exploring LLMs, FastAPI, Explainable AI, NLP, and scalable backend systems
 - 💡 Interested in AI Engineering, System Design, and Production-level applications
 - ⚡ Love building practical solutions with modern technologies
-- 📫 Reach me at: **yourmail@gmail.com**
+- 📫 Reach me at: **gopalthakare619@gmail.com**
 
 ---
 
@@ -52,12 +52,6 @@ AI-powered football match prediction system with Explainable AI using SHAP & LIM
 ### 👁️ Assistive Vision System
 Real-time object detection and voice assistance system designed for accessibility.
 
-### 🤖 AI To-Do List Manager
-Smart productivity application with AI-based task management and automation.
-
-### 🏢 Automated Office Task Manager
-Backend-focused automation platform for task assignment, tracking, and reminders.
-
 ### 📊 Customer Segmentation
 Machine learning project for customer clustering and business insights.
 
@@ -83,7 +77,7 @@ Machine learning project for customer clustering and business insights.
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/gopalthakare14" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
