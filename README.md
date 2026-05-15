@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gopal Thakare</h1>
-<h3 align="center">AI/ML Developer | Backend Developer | Python Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Gopal Thakare</h1>
+<h3 align="center">AI/ML Developer • Backend Engineer • Python Enthusiast</h3>
 
 <p align="center">
 Building AI-powered applications, scalable backend systems, and real-world automation solutions.
@@ -24,6 +24,12 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql" />
+</p>
 
 ### ⚙️ Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
