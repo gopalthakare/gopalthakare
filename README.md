@@ -10,10 +10,10 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 ## 🚀 About Me
 
 - 🎓 Final-year Engineering Student focused on AI, ML & Backend Development
-- 🔭 Currently building AI-powered and automation-based projects
-- 🌱 Exploring LLMs, FastAPI, Explainable AI, NLP, and scalable backend systems
-- 💡 Interested in AI Engineering, System Design, and Production-level applications
-- ⚡ Love building practical solutions with modern technologies
+- 🤖 Interested in Artificial Intelligence, Backend Development & Web Technologies
+- ⚙️ Skilled in building APIs, automation systems, and data-driven applications
+- 🌱 Exploring FastAPI, Generative AI, System Design, Databases & scalable applications
+- 💡 Passionate about solving real-world problems using modern technologies
 - 📫 Reach me at: **gopalthakare619@gmail.com**
 
 ---
@@ -56,7 +56,7 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 ## 👁️ Assistive Vision System
 > AI-powered assistive system for visually impaired users using real-time object detection and distance estimation.
 
-**Tech Used:** Python • OpenCV • Deep Learning • NumPy
+**Tech Used:** Python • OpenCV • Deep Learning • NumPy • Computer Vision
 
 ---
 
