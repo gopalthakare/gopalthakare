@@ -54,11 +54,11 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ---
 
-## 👁️ Assistive Vision System
+### 👁️ Assistive Vision System
 
 > AI-powered assistive application for visually impaired users using real-time object detection and voice feedback.
 
-### 🔹 Tech Stack
+#### 🔹 Tech Stack
 
 `Python` `OpenCV` `Deep Learning` `Computer Vision`
 
@@ -68,7 +68,7 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 > AI-powered content generation platform that transforms text prompts into creative video/content ideas with modern UI and automation workflows.
 
-### 🔹 Tech Stack
+#### 🔹 Tech Stack
 
 `Python` `AI` `Generative AI` `FastAPI` `Web Development`
 
@@ -77,9 +77,9 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 ### 📊 Customer Segmentation
 Machine learning project for customer clustering and business insights.
 
-### 🔹 Tech Stack
+#### 🔹 Tech Stack
 
-`Python` `Scikit-Learn` `Pandas`
+`Python` `Scikit-Learn` `Pandas` `K-means Clustering`
 
 ---
 
