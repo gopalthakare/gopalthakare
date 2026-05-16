@@ -60,8 +60,22 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ---
 
+### 🎬 ReelCraft AI
+
+> AI-powered content generation platform that transforms text prompts into creative video/content ideas with modern UI and automation workflows.
+
+### 🔹 Tech Stack
+
+`Python` `AI` `Generative AI` `FastAPI` `Web Development`
+
+---
+
 ### 📊 Customer Segmentation
 Machine learning project for customer clustering and business insights.
+
+### 🔹 Tech Stack
+
+`Python` `Scikit-Learn` `Pandas`
 
 ---
 
