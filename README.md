@@ -44,11 +44,11 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ---
 
-## ⚽ XAI Football Analytics System
+### ⚽ XAI Football Analytics System
 
 > Explainable AI-based sports analytics platform for player performance prediction, injury risk analysis, and match outcome forecasting.
 
-### 🔹 Tech Stack
+#### 🔹 Tech Stack
 
 `Python` `FastAPI` `Streamlit` `SHAP` `LIME` `Machine Learning`
 
