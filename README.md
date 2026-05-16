@@ -44,19 +44,23 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ---
 
-## 📌 Featured Projects
+## ⚽ XAI Football Analytics System
 
-## ⚽ XAI Sports Analytics Platform
-> Explainable AI system for player performance analysis and prediction transparency using SHAP & LIME.
+> Explainable AI-based sports analytics platform for player performance prediction, injury risk analysis, and match outcome forecasting.
 
-**Tech Used:** Python • FastAPI • SHAP • LIME • Pandas
+### 🔹 Tech Stack
+
+`Python` `FastAPI` `Streamlit` `SHAP` `LIME` `Machine Learning`
 
 ---
 
 ## 👁️ Assistive Vision System
-> AI-powered assistive system for visually impaired users using real-time object detection and distance estimation.
 
-**Tech Used:** Python • OpenCV • Deep Learning • NumPy • Computer Vision
+> AI-powered assistive application for visually impaired users using real-time object detection and voice feedback.
+
+### 🔹 Tech Stack
+
+`Python` `OpenCV` `Deep Learning` `Computer Vision`
 
 ---
 
