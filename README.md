@@ -74,12 +74,12 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ---
 
-### 📊 Customer Segmentation
-Machine learning project for customer clustering and business insights.
+### 🎙 VoiceFlow Studio
+Modern multilingual voice generation desktop application built with Python and CustomTkinter.
 
 #### 🔹 Tech Stack
 
-`Python` `Scikit-Learn` `Pandas` `K-means Clustering`
+`Python` `CustomTkinter` `gTTS` `SpeechRecognition` `PyAudio`
 
 ---
 
