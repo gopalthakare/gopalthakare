@@ -54,13 +54,13 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ---
 
-### 👁️ Assistive Vision System
+### 👁️ VisionAid - Assistive Vision System
 
 > AI-powered assistive application for visually impaired users using real-time object detection and voice feedback.
 
 #### 🔹 Tech Stack
 
-`Python` `OpenCV` `Deep Learning` `Computer Vision`
+`Python` `Next.js` `OpenCV` `React` `YOLOV8` `FASTAPI`
 
 ---
 
