@@ -93,7 +93,7 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 ---
 
 ### 🎙 VoiceFlow Studio
-Modern multilingual voice generation desktop application built with Python and CustomTkinter.
+> Modern multilingual voice generation desktop application built with Python and CustomTkinter.
 
 #### 🔹 Tech Stack
 
