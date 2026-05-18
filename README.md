@@ -112,7 +112,6 @@ Modern multilingual voice generation desktop application built with Python and C
   <img src="https://streak-stats.demolab.com?user=gopalthakare&theme=tokyonight"/>
 </p>
 
-![snake gif](https://github.com/gopalthakare/gopalthakare/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🌐 Connect With Me
