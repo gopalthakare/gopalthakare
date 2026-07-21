@@ -9,10 +9,10 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ## 🚀 About Me
 
-- 🎓 Final-year Engineering Student focused on AI, ML & Backend Development
-- 🤖 Interested in Artificial Intelligence, Backend Development & Web Technologies
-- ⚙️ Skilled in building APIs, automation systems, and data-driven applications
-- 🌱 Exploring FastAPI, Generative AI, System Design, Databases & scalable applications
+- 🎓 Computer Science Graduate focused on AI, Machine Learning, and Backend Development
+- 🤖 Building AI-powered applications using Python, FastAPI, and modern web technologies
+- ⚙️ Experienced in developing REST APIs, automation systems, and explainable ML solutions
+- 🌱 Currently exploring Generative AI, RAG, LLMs, System Design, and scalable architectures
 - 💡 Passionate about solving real-world problems using modern technologies
 - 📫 Reach me at: **gopalthakare619@gmail.com**
 
@@ -45,7 +45,7 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ---
 
-### 🤖 AI / ML & Computer Vision
+### 🤖 🤖 AI, Machine Learning & Computer Vision
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -59,10 +59,10 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ### 🧠 Generative AI & LLMs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-AI-blueviolet?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-orange?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Generative_AI-success?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
 ---
 
@@ -80,7 +80,7 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ### ⚽ XAI Football Analytics System
 
-> Explainable AI-based sports analytics platform for player performance prediction, injury risk analysis, and match outcome forecasting.
+> Predicts player performance, injury risk, and match outcomes using machine learning while explaining every prediction through Explainable AI techniques.
 
 #### 🔹 Tech Stack
 
@@ -90,7 +90,7 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ### 👁️ VisionAid - Assistive Vision System
 
-> AI-powered assistive application for visually impaired users using real-time object detection and voice feedback.
+> Real-time assistive vision system that detects surrounding objects and provides voice feedback for visually impaired users.
 
 #### 🔹 Tech Stack
 
@@ -100,7 +100,7 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ### 🎬 ReelCraft AI
 
-> AI-powered content generation platform that transforms text prompts into creative video/content ideas with modern UI and automation workflows.
+> Transforms text prompts into AI-assisted cinematic concepts, storyboards, and creative content using Generative AI workflows.
 
 #### 🔹 Tech Stack
 
@@ -108,12 +108,13 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 
 ---
 
-### 🎙 VoiceFlow Studio
-> Modern multilingual voice generation desktop application built with Python and CustomTkinter.
+### 🚀 RepoMind
+
+> Retrieval-Augmented Generation (RAG) application that indexes GitHub repositories, performs semantic code search using FAISS and Sentence Transformers, and answers repository questions with grounded AI responses.
 
 #### 🔹 Tech Stack
 
-`Python` `CustomTkinter` `gTTS` `SpeechRecognition` `PyAudio`
+`Python` `RAG ` `FAISS ` `GitPython` `Sentence Transformers` `Google Gemini`
 
 ---
 
