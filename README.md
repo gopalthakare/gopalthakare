@@ -51,8 +51,7 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Object_Detection-red?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-blue?style=for-the-badge)
-![LIME](https://img.shields.io/badge/LIME-XAI-green?style=for-the-badge)
+![Explainable AI](https://img.shields.io/badge/Explainable_AI-XAI-6C63FF?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
