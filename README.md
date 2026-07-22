@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Gopal Thakare</h1>
-<h3 align="center">AI/ML Developer • Backend Engineer • Python Enthusiast</h3>
+<h3 align="center">AI/ML Developer • Python Backend Developer • Computer Science Graduate</h3>
 
 <p align="center">
 Building AI-powered applications, scalable backend systems, and real-world automation solutions.
