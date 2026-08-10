@@ -121,8 +121,8 @@ Building AI-powered applications, scalable backend systems, and real-world autom
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://YOUR-OWN-INSTANCE/api?username=gopalthakare&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://YOUR-OWN-INSTANCE/api/top-langs/?username=gopalthakare&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=gopalthakare&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gopalthakare&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
