@@ -82,12 +82,12 @@
 
 ## 🚀 Featured Projects
 
-| Project | 🔥 Highlights | 🛠️ Tech Stack |
+| 🚀 Project | 🧠 What I Built | ⚡ Technologies |
 |:---|:---|:---|
-| ⚽ **[XAI Football Analytics](YOUR_REPO_LINK)** | 🎯 Player Performance  •  🩺 Injury Risk  •  🏆 Match Prediction  •  🔍 SHAP & LIME Explainability | `Python` `XGBoost` `FastAPI` `Streamlit` `SHAP` `LIME` |
-| 👁️ **[VisionAid](YOUR_REPO_LINK)** | 🎥 Real-Time Detection  •  📍 Object Recognition  •  🗣️ Voice Guidance  •  🤖 Assistive AI | `Python` `YOLOv8` `OpenCV` `FastAPI` `Next.js` |
-| 🎯 **[PrepPundit](https://github.com/gopalthakare/preppundit)** | 📄 Resume Analysis  •  💼 JD Matching  •  🎤 Adaptive AI Interviews  •  📊 Intelligent Evaluation  •  📷 On-Device Proctoring | `Python` `FastAPI` `React` `TypeScript` `Gemini` `Groq` `MediaPipe` |
-| 🧠 **[RepoMind](YOUR_REPO_LINK)** | 🔎 Semantic Code Search  •  📚 Repository RAG  •  🧩 FAISS Retrieval  •  💬 Grounded AI Answers | `Python` `RAG` `FAISS` `Gemini` `Sentence Transformers` |
+| ⚽ **[XAI Football Analytics](YOUR_REPO_LINK)** | An explainable AI platform for predicting **player performance, injury risk, and match outcomes**, with SHAP & LIME explanations for model decisions. | `Python` `XGBoost` `FastAPI` `Streamlit` `SHAP` `LIME` |
+| 👁️ **[VisionAid](YOUR_REPO_LINK)** | An AI-powered assistive vision system that uses **real-time object detection** and voice feedback to help users understand their surroundings. | `Python` `YOLOv8` `OpenCV` `FastAPI` `Next.js` |
+| 🎬 **[ReelCraft AI](YOUR_REPO_LINK)** | A Generative AI application that transforms **text prompts into cinematic concepts, storyboards, and creative content** through automated AI workflows. | `Python` `Generative AI` `FastAPI` `Web Development` |
+| 🧠 **[RepoMind](YOUR_REPO_LINK)** | A **RAG-powered GitHub repository assistant** that performs semantic code search and answers questions about repositories using grounded AI responses. | `Python` `RAG` `FAISS` `Gemini` `Sentence Transformers` |
 
 ---
 
