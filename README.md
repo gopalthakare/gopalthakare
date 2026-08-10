@@ -63,7 +63,6 @@
 ![LLMs](https://img.shields.io/badge/LLMs-AI-blueviolet?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-orange?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Generative_AI-success?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
 ### 🗄️ Database, Cloud & Dev Tools
 
@@ -86,7 +85,7 @@
 |:---|:---|:---|
 | ⚽ **[XAI Football Analytics](https://github.com/gopalthakare/xai-football-analytics)** | An explainable AI platform for predicting **player performance, injury risk, and match outcomes**, with SHAP & LIME explanations for model decisions. | `Python` `XGBoost` `FastAPI` `Streamlit` `SHAP` `LIME` |
 | 👁️ **[VisionAid](https://github.com/gopalthakare/visionaid-ai-navigation)** | An AI-powered assistive vision system that uses **real-time object detection** and voice feedback to help users understand their surroundings. | `Python` `YOLOv8` `OpenCV` `FastAPI` `Next.js` |
-| 🎯 **[PrepPundit](https://github.com/gopalthakare/preppundit)** | An AI-powered interview preparation platform for **resume analysis, job description matching, adaptive interviews, and intelligent performance evaluation**. | `Python` `FastAPI` `React` `TypeScript` `Gemini` `Groq` |
+| 🎯 **[PrepPundit](https://github.com/gopalthakare/preppundit)** | An AI-powered interview preparation platform for **resume analysis, job description matching, adaptive interviews, and intelligent performance evaluation**. | `Python` `FastAPI` `React` `TypeScript` `Gemini` `MediaPipe` `TensorFlow.js` |
 | 🧠 **[RepoMind](https://github.com/gopalthakare/RepoMind)** | A **RAG-powered GitHub repository assistant** that performs semantic code search and answers questions about repositories using grounded AI responses. | `Python` `RAG` `FAISS` `Gemini` `Sentence Transformers` |
 
 ---
