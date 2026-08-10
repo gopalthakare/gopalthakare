@@ -1,9 +1,20 @@
-<h1 align="center">Hey 👋, I'm Gopal Thakare</h1>
-<h3 align="center">AI/ML Developer • Python Backend Developer • Computer Science Graduate</h3>
+<!-- Header -->
 
-<p align="center">
-Building AI-powered applications, scalable backend systems, and real-world automation solutions.
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=180&section=header&text=Gopal%20Thakare&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Python%20Developer%20%7C%20Computer%20Science%20Graduate&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+
+<!-- Profile views & socials -->
+
+<img src="https://komarev.com/ghpvc/?username=gopalthakare&color=7F77DD&style=flat-square&label=Profile+Views" />
+
+<br><br>
+
+<a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/> </a>
+
+</div>
+
+<br>
 
 ---
 
