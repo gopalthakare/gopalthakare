@@ -80,43 +80,14 @@
 
 ---
 
-### ⚽ XAI Football Analytics System
+## 🚀 Featured Projects
 
-> Predicts player performance, injury risk, and match outcomes using machine learning while explaining every prediction through Explainable AI techniques.
-
-#### 🔹 Tech Stack
-
-`Python` `FastAPI` `Streamlit` `SHAP` `LIME` `Machine Learning`
-
----
-
-### 👁️ VisionAid - Assistive Vision System
-
-> Real-time assistive vision system that detects surrounding objects and provides voice feedback for visually impaired users.
-
-#### 🔹 Tech Stack
-
-`Python` `Next.js` `OpenCV` `React` `YOLOV8` `FASTAPI`
-
----
-
-### 🎬 ReelCraft AI
-
-> Transforms text prompts into AI-assisted cinematic concepts, storyboards, and creative content using Generative AI workflows.
-
-#### 🔹 Tech Stack
-
-`Python` `AI` `Generative AI` `FastAPI` `Web Development`
-
----
-
-### 🚀 RepoMind
-
-> Retrieval-Augmented Generation (RAG) application that indexes GitHub repositories, performs semantic code search using FAISS and Sentence Transformers, and answers repository questions with grounded AI responses.
-
-#### 🔹 Tech Stack
-
-`Python` `RAG ` `FAISS ` `GitPython` `Sentence Transformers` `Google Gemini`
+| Project | 🔥 Highlights | 🛠️ Tech Stack |
+|:---|:---|:---|
+| ⚽ **[XAI Football Analytics](YOUR_REPO_LINK)** | 🎯 Player Performance  •  🩺 Injury Risk  •  🏆 Match Prediction  •  🔍 SHAP & LIME Explainability | `Python` `XGBoost` `FastAPI` `Streamlit` `SHAP` `LIME` |
+| 👁️ **[VisionAid](YOUR_REPO_LINK)** | 🎥 Real-Time Detection  •  📍 Object Recognition  •  🗣️ Voice Guidance  •  🤖 Assistive AI | `Python` `YOLOv8` `OpenCV` `FastAPI` `Next.js` |
+| 🎯 **[PrepPundit](https://github.com/gopalthakare/preppundit)** | 📄 Resume Analysis  •  💼 JD Matching  •  🎤 Adaptive AI Interviews  •  📊 Intelligent Evaluation  •  📷 On-Device Proctoring | `Python` `FastAPI` `React` `TypeScript` `Gemini` `Groq` `MediaPipe` |
+| 🧠 **[RepoMind](YOUR_REPO_LINK)** | 🔎 Semantic Code Search  •  📚 Repository RAG  •  🧩 FAISS Retrieval  •  💬 Grounded AI Answers | `Python` `RAG` `FAISS` `Gemini` `Sentence Transformers` |
 
 ---
 
