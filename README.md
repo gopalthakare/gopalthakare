@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
 - 🎓 Computer Science Graduate focused on AI, Machine Learning, and Backend Development
 - 🤖 Building AI-powered applications using Python, FastAPI, and modern web technologies
@@ -82,12 +82,12 @@
 
 ## 🚀 Featured Projects
 
-| 🚀 Project | 🧠 What I Built | ⚡ Technologies |
+| Project | Description | Tech Stack |
 |:---|:---|:---|
-| ⚽ **[XAI Football Analytics](YOUR_REPO_LINK)** | An explainable AI platform for predicting **player performance, injury risk, and match outcomes**, with SHAP & LIME explanations for model decisions. | `Python` `XGBoost` `FastAPI` `Streamlit` `SHAP` `LIME` |
-| 👁️ **[VisionAid](YOUR_REPO_LINK)** | An AI-powered assistive vision system that uses **real-time object detection** and voice feedback to help users understand their surroundings. | `Python` `YOLOv8` `OpenCV` `FastAPI` `Next.js` |
-| 🎬 **[ReelCraft AI](YOUR_REPO_LINK)** | A Generative AI application that transforms **text prompts into cinematic concepts, storyboards, and creative content** through automated AI workflows. | `Python` `Generative AI` `FastAPI` `Web Development` |
-| 🧠 **[RepoMind](YOUR_REPO_LINK)** | A **RAG-powered GitHub repository assistant** that performs semantic code search and answers questions about repositories using grounded AI responses. | `Python` `RAG` `FAISS` `Gemini` `Sentence Transformers` |
+| ⚽ **[XAI Football Analytics](https://github.com/gopalthakare/xai-football-analytics)** | An explainable AI platform for predicting **player performance, injury risk, and match outcomes**, with SHAP & LIME explanations for model decisions. | `Python` `XGBoost` `FastAPI` `Streamlit` `SHAP` `LIME` |
+| 👁️ **[VisionAid](https://github.com/gopalthakare/visionaid-ai-navigation)** | An AI-powered assistive vision system that uses **real-time object detection** and voice feedback to help users understand their surroundings. | `Python` `YOLOv8` `OpenCV` `FastAPI` `Next.js` |
+| 🎯 **[PrepPundit](https://github.com/gopalthakare/preppundit)** | An AI-powered interview preparation platform for **resume analysis, job description matching, adaptive interviews, and intelligent performance evaluation**. | `Python` `FastAPI` `React` `TypeScript` `Gemini` `Groq` |
+| 🧠 **[RepoMind](https://github.com/gopalthakare/RepoMind)** | A **RAG-powered GitHub repository assistant** that performs semantic code search and answers questions about repositories using grounded AI responses. | `Python` `RAG` `FAISS` `Gemini` `Sentence Transformers` |
 
 ---
 
@@ -104,20 +104,29 @@
 
 ---
 
-## 🌐 Connect With Me
+---
 
-<p align="left">
-<a href="https://github.com/gopalthakare" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+## 🐍 Contribution Snake
 
-<a href="https://linkedin.com/in/gopalthakare14" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-</p>
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/gopalthakare/gopalthakare/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+</div>
 
 ---
 
 <p align="center">
 ✨ Building practical AI solutions and continuously learning modern technologies ✨
 </p>
+
+<div align="center">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer"
+  width="100%"
+  alt="Footer"
+/>
+
+</div>
