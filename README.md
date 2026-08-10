@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4C4788&height=180&section=header&text=Gopal%20Thakare&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Python%20Developer%20%7C%20Computer%20Science%20Graduate&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36325D&height=180&section=header&text=Gopal%20Thakare&fontSize=36&fontFamily=Montserrat&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Python%20Developer%20%7C%20Computer%20Science%20Graduate&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=gopalthakare&color=5D57A4&style=flat-square&label=Profile+Views" />
 <a href="https://linkedin.com/in/gopalthakare14"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/> </a> <a href="mailto:gopalthakare619@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/> </a>
