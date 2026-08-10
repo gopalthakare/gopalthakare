@@ -1,20 +1,6 @@
-<!-- Header -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=180&section=header&text=Gopal%20Thakare&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Python%20Developer%20%7C%20Computer%20Science%20Graduate&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
-
-<!-- Profile views & socials -->
-
-<img src="https://komarev.com/ghpvc/?username=gopalthakare&color=7F77DD&style=flat-square&label=Profile+Views" />
-
-<br><br>
-
-<a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/> </a>
-
-</div>
-
-<br>
+<!-- Header --> 
+<div align="center"> <!-- Unique animated AI-style header --> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gopal%20Thakare&fontSize=38&fontColor=00F5FF&fontAlignY=40&desc=AI%20%7C%20ML%20Engineer%20%7C%20Python%20Developer&descAlignY=65&descSize=16&animation=twinkling" width="100%"/> <!-- Profile views --> <img src="https://komarev.com/ghpvc/?username=gopalthakare&color=00F5FF&style=flat-square&label=PROFILE+VIEWS" /> <br><br> <!-- Social badges --> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <br>
 
 ---
 
