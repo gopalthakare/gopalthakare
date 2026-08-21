@@ -91,18 +91,16 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=gopalthakare&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=gopalthakare&show_icons=true&theme=tokyonight"
     height="180"
   />
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gopalthakare&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalthakare&layout=compact&theme=tokyonight"
     height="180"
   />
 </p>
-
 <p align="center">
   <a href="https://github.com/gopalthakare">
     <img src="https://streak-stats.demolab.com/?user=gopalthakare&theme=tokyonight" />
