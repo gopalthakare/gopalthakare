@@ -90,15 +90,24 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=gopalthakare&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gopalthakare&layout=compact&theme=tokyonight" height="180"/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=gopalthakare&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gopalthakare&layout=compact&theme=tokyonight"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gopalthakare&theme=tokyonight"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=gopalthakare&theme=tokyonight"
+    height="180"
+  />
 </p>
 
 ---
@@ -118,14 +127,14 @@
 ---
 
 <p align="center">
-✨ Building practical AI solutions and continuously learning modern technologies ✨
+  ✨ Building practical AI solutions and continuously learning modern technologies ✨
 </p>
 
-<div align="center">
+<br>
+
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=4C4788&height=80&section=footer"
   width="100%"
-  alt="Footer"
-/>
+  alt="Footer"/>
 
 </div>
