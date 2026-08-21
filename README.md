@@ -104,13 +104,10 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=gopalthakare&theme=tokyonight"
-    height="180"
-  />
+  <a href="https://github.com/gopalthakare">
+    <img src="https://streak-stats.demolab.com/?user=gopalthakare&theme=tokyonight" />
+  </a>
 </p>
-
----
 
 ---
 
@@ -126,15 +123,7 @@
 
 ---
 
-<p align="center">
-  ✨ Building practical AI solutions and continuously learning modern technologies ✨
-</p>
-
-<br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=4C4788&height=80&section=footer"
-  width="100%"
-  alt="Footer"/>
+<p align="center"> ✨ Building practical AI solutions and continuously learning modern technologies ✨ </p> <div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
